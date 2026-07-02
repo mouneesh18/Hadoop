@@ -1,0 +1,3 @@
+MapReduce processes data in parallel.
+Each mapper handles part of the input.
+Reducers combine the final results.

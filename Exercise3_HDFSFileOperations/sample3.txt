@@ -1,0 +1,3 @@
+YARN manages cluster resources.
+It schedules jobs efficiently.
+Hadoop supports scalable data processing.

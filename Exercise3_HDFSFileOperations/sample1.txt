@@ -1,0 +1,3 @@
+Hadoop is an open-source framework.
+It is designed for distributed storage.
+HDFS stores large datasets efficiently.
