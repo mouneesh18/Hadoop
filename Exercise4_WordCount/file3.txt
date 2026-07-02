@@ -1,0 +1,3 @@
+Machine learning uses large datasets.
+Hadoop integrates well with machine learning.
+Data science and big data are closely related.

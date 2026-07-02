@@ -1,0 +1,4 @@
+Hadoop is a distributed computing framework.
+Hadoop stores big data efficiently.
+MapReduce processes large datasets.
+HDFS provides reliable storage.
